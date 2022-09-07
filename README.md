@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+<h1 align="center">
+  Projeto Android
+</h1>
 
-You can use the [editor on GitHub](https://github.com/samuelsilvati/projeto-android/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link-do-projeto">Link do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+</p>
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="center">
+  <a href="https://samuelsilvati.github.io/projeto-android//"><img alt="print dsmeta" src="imagens/projeto_android.png" width="100%"></a>
+</p>
 
-```markdown
-Syntax highlighted code block
+## ✨ Tecnologias
 
-# Header 1
-## Header 2
-### Header 3
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Bulleted
-- List
+- HTML
+- CSS
 
-1. Numbered
-2. List
+## 💻 Projeto
 
-**Bold** and _Italic_ and `Code` text
+Site simples feito usando HTML5 e CSS3. Projeto feito através do curso de HTML e CSS3 do CursoemVideo.<br>
+O site conta a história do mascote do Android chamado Bugdroid.
 
-[Link](url) and ![Image](src)
-```
+## 🚀 Link do Projeto
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+https://samuelsilvati.github.io/projeto-android
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuelsilvati/projeto-android/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 📄 Licença
 
-### Support or Contact
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+Feito com ♥ by Samuel 👋🏻 [Veja outros projetos!](https://github.com/samuelsilvati?tab=repositories)
